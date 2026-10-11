@@ -1,0 +1,5 @@
+title: Tint Meter
+description: "Support, privacy policy and terms of use for Tint Meter, the window tint VLT meter for iPhone"
+baseurl: /tint-meter-support
+exclude:
+  - README.md
